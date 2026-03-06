@@ -104,6 +104,10 @@ table {
   display: block;
 }
 
+#galeria3 {
+    text-align: justify;
+}
+
 #galeria3 p {
     text-align: justify;
 }
