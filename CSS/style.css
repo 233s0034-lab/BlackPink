@@ -82,6 +82,14 @@ section::after {
 
 #galeria video{
   width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#galeria video{
+  width: 100%;
   height: 350px;
 }
 
