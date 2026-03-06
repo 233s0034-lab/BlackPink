@@ -98,6 +98,11 @@ table {
   padding: 10px 20px;
 }
 
+#galeria3 img{
+  width: 100%;
+  height: 380px;
+  display: block;
+}
 
 th, td {
   border: 1px solid black;
